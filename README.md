@@ -1,4 +1,10 @@
-Hello, I am HeroDevc. I program in javascript, python.
+Hello, I am HeroDevc.
+
+
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/HeroDevc)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/HeroDevc)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/HeroDevc)
 
 
 ### Github Stats
