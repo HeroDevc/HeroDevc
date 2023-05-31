@@ -9,7 +9,8 @@ Hello, I am HeroDevc.
 
 ### Github Stats
 
-![HeroDevc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeroDevc&show_icons=true&theme=night)
+![HeroDevc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeroDevc&show_icons=true&theme=light)
 
 
 ![](https://komarev.com/ghpvc/?username=HeroDevc&style=for-the-badge)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/HeroDevc)
