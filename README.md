@@ -9,8 +9,8 @@ Hello, I am HeroDevc.
 
 ### Github Stats
 
-![HeroDevc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeroDevc&show_icons=true&theme=light)
+[![HeroDevc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeroDevc&show_icons=true&theme=light)](https://github.com/HeroDevc)
 
 
-![](https://komarev.com/ghpvc/?username=HeroDevc&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=HeroDevc&style=for-the-badge)](https://github.com/HeroDevc)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/HeroDevc)
