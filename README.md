@@ -13,4 +13,4 @@ Hello, I am HeroDevc.
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=HeroDevc&style=for-the-badge)](https://github.com/HeroDevc)
-[![Linux](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Linux)](https://github.com/HeroDevc)
+[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)](https://github.com/HeroDevc)
