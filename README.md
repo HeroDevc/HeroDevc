@@ -11,6 +11,8 @@ Hello, I am HeroDevc.
 
 [![HeroDevc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeroDevc&show_icons=true&theme=light)](https://github.com/HeroDevc)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeroDevc)
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=HeroDevc&style=for-the-badge)](https://github.com/HeroDevc)
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)](https://github.com/HeroDevc)
